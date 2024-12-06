@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.img {
+  width: 100px;
+}
+
+.card {
+  border-radius: 10px;
+  border: 1px solid grey;
+  padding: 8px;
+  width: 200px;
+}
